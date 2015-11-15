@@ -2,7 +2,9 @@
 #include <iostream>
 #include <math.h>
 
-int main ()
+using namespace std;
+
+int main (int argc, char *argv[])
 {
     cout << "---------------------------------------" << endl;
     cout << "Cytus TP計算機 [Beta7]" << endl;
