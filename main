@@ -1,12 +1,8 @@
-//Cytus B7
-
 #include <cstdlib>
 #include <iostream>
 #include <math.h>
 
-using namespace std;
-
-int main (int argc, char *argv[])
+int main ()
 {
     cout << "---------------------------------------" << endl;
     cout << "Cytus TP計算機 [Beta7]" << endl;
