@@ -2,7 +2,7 @@
 ##About  
 It can calculate your BP notes and TP.
 ##Use
-<Menu>
+###< Menu >
 Type   
 "1" BP Calculator  
 "2" TP Calculator  
